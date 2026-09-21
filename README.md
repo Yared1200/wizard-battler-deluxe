@@ -1,5 +1,5 @@
 # Wizard Battler Deluxe!!
-**Wizard Battler Deluxe!!** is an open source, turn-based JRPG where powerful wizard battle fierce monsters.
+**Wizard Battler Deluxe!!** is an open source, turn-based JRPG where powerful wizards battle fierce monsters.
 
 ---
 
